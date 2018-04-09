@@ -24,3 +24,45 @@ Anything I want to do or really stick to will record here.
 
 - [EnglishVocabulary](https://github.com/jinzhuwuyan/EnglishVocabulary)
 > An English learning software for vocabulary (Want to do).
+
+# Teachique 
+## Language
+python
+---
+
+java
+---
+
+Android
+---
+
+Shell
+---
+
+
+## Tools
+BeatifulSoup
+---
+
+CoCos2dx
+---
+
+wxPython
+---
+
+wxformbuilder
+---
+
+
+## Website
+freebuf: [www.freebuf.com]
+
+## Interest
+Information Security
+---
+
+Crossing Platform Client Development
+---
+
+
+## Other
