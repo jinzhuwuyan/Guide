@@ -27,42 +27,36 @@ Anything I want to do or really stick to will record here.
 
 # Teachique 
 ## Language
-python
----
+- python
 
-java
----
+- java
 
-Android
----
+- Android
 
-Shell
----
+- Shell
 
 
 ## Tools
-BeatifulSoup
----
+- BeatifulSoup
 
-CoCos2dx
----
+- CoCos2dx
 
-wxPython
----
+- wxPython
 
-wxformbuilder
----
+
+- wxformbuilder
 
 
 ## Website
-freebuf: [www.freebuf.com]
+- freebuf
+[www.freebuf.com]
 
 ## Interest
-Information Security
----
+- Information Security
 
-Crossing Platform Client Development
----
+
+- Crossing Platform Client Development
+
 
 
 ## Other
