@@ -57,6 +57,8 @@ Anything I want to do or really stick to will record here.
 
 - Crossing Platform Client Development
 
+## Books
+
 
 
 ## Other
