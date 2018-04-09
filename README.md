@@ -58,7 +58,14 @@ Anything I want to do or really stick to will record here.
 - Crossing Platform Client Development
 
 ## Books
+- 浪潮之巅
+> 看完
+
+- Cocos2D-X游戏开发技术精解
+> 正在看
 
 
+## Guides
+- DeepLearning
 
 ## Other
