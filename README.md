@@ -7,20 +7,20 @@ EveryThing I have done will conclude here.
 - [LuaProgrammingGUI](https://github.com/jinzhuwuyan/LuaProgrammingGUI) 
 > A GUI designed through wxpython for easily programming for people don't code
 
-- RelatedFunction
+- [RelatedFunction](https://github.com/jinzhuwuyan/RelatedFunction)
 > 可拓学的关联函数
 
-- Youdu
+- [Youdu](https://github.com/jinzhuwuyan/Youdu)
 > 写可拓学的优度评价服务
 
 # TODO
 Anything I want to do or really stick to will record here.
 ---
-- TeachnologyGuide-No-Free-
+- [TeachnologyGuide-No-Free-](https://github.com/jinzhuwuyan/TeachnologyGuide-No-Free-)
 > A book which log my technical and interested thing which may give some inspires for beginners or others who want to learn.
 
-- Extension-mobile-software
+- [Extension-mobile-software](https://github.com/jinzhuwuyan/Extension-mobile-software)
 > make an extensible crossing platform software, mainly in mobile field, for Extenics purpose on costing down the learning and exercise cost.
 
-- EnglishVocabulary
+- [EnglishVocabulary](https://github.com/jinzhuwuyan/EnglishVocabulary)
 > An English learning software for vocabulary (Want to do).
