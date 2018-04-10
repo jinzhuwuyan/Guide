@@ -69,3 +69,9 @@ Anything I want to do or really stick to will record here.
 - DeepLearning
 
 ## Other
+
+# Teachnique Stack
+- Crossing Platform Client Development
+## wxpython -> wxWidget
+
+## cocos2dx, directUI
